@@ -1,1 +1,0 @@
-# react-max-6-custom-hook
